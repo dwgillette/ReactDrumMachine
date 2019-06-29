@@ -3,7 +3,7 @@
 A fun little drum machine you can bang away on using your keyboard. Switch up the color scheme, turn it on and off, change soundbanks, and hear a demo of each bank. 
 
 ## Screenshots
-!['Screenshot Home page'](https://github.com/dwgillette/ReactDrumMachine/blob/master/DrumMachineScreenShot.png)
+!['Screenshot Home page'](https://github.com/dwgillette/ReactDrumMachine/blob/master/public/DrumMachineScreenShot.png)
 
 ## Dependencies
 - React
